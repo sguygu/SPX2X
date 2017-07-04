@@ -1,0 +1,26 @@
+{
+  "name": "spx2x",
+  "version": "0.2.6",
+  "description": "spx2x",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "NewsFeed.js",
+  "scripts": {
+    "start": "node NewsFeed.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sguygu/SPX2X.git"
+  },
+  "keywords": [
+    "node",
+    "spx2x",
+    "express"
+  ],
+  "license": ""
+}
