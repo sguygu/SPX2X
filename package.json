@@ -1,20 +1,27 @@
 {
-  "name": "spx2x",
-  "version": "1.0.0",
-  "description": "my first spx2x",
-  "main": "Form.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sguygu/SPX2X.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sguygu/SPX2X/issues"
-  },
-  "homepage": "https://github.com/sguygu/SPX2X#readme"
+	"name": "spx2x",
+	"version": "1.0.0",
+	"description": "my first spx2x",
+	"main": "Form.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sguygu/SPX2X.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"engines": {
+		"node": "6.10.2"
+	},
+	"dependencies": {
+		"ejs": "2.5.6",
+		"express": "4.15.2"
+	},
+	"bugs": {
+		"url": "https://github.com/sguygu/SPX2X/issues"
+	},
+	"homepage": "https://github.com/sguygu/SPX2X#readme"
 }
